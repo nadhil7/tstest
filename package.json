@@ -1,0 +1,22 @@
+{
+  "name": "tstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadhil7/tstest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadhil7/tstest/issues"
+  },
+  "homepage": "https://github.com/nadhil7/tstest#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
